@@ -1,0 +1,86 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+  color: #04b919;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+  text-align: center;
+  color: #04b919;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  color: #32c843;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.25;
+}
+
+ul {
+  border: solid;
+  border-color: #32c843;
+  color: #32c843;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.25;
+  
+}
+
+body {
+  background-color: #333333;
+}
+p{
+    text-align: center;
+  color: #32c843;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+  width: 100px;
+  border: solid;
+  border-color:#32c843;
+  float:right
+  
+}
+
+.title {
+    border-color: #32c843 ;
+  border: solid;
+  font-size: 40px
+}
+
+.subheading {
+  border-color: #32c843 ;
+  border: solid;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraph, .intro {
+  text-align: left;
+  border-color: #32c843 ;
+  border: solid;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.35;
+
+}
+
+.bishoppiece {
+  float: right;
+  width: 150px;
+}
+
+.queenpiece, .chesshistory {
+  width: 150px;
+}
+
+  
+
+
